@@ -1,5 +1,8 @@
 ### **Goals of Malware Analysis**
 
+
+### CO-1
+
 1. **Classify** the primary goals of malware analysis and explain their significance in preventing malware spread.
 2. **Compare** proactive and reactive goals in malware analysis and how they influence the overall response to malware incidents.
 3. **Contrast** the goals of dynamic analysis versus static analysis when analyzing malware.
