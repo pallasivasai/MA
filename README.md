@@ -1,7 +1,3 @@
-Here are questions based on **Bloom's Taxonomy Levels (BTL)** for each of the given topics:
-
----
-
 ### **Goals of Malware Analysis**
 
 1. **Classify** the primary goals of malware analysis and explain their significance in preventing malware spread.
